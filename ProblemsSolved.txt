@@ -1,0 +1,4 @@
+		Sliding window
+1	https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/	
+2	https://leetcode.com/problems/contains-duplicate-ii/?envType=problem-list-v2&envId=sliding-window&difficulty=EASY	
+3	https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/?envType=problem-list-v2&envId=string	
