@@ -18,6 +18,14 @@ Console.WriteLine(dic.Count);
 
 Console.WriteLine(Math.Abs(1-11));
 
+QUEUE
+ Queue<int> q = new Queue<int>();
+        Console.WriteLine (q.Count);
+        q.Enqueue(1);
+         Console.WriteLine (q.Count);
+         q.Dequeue();
+         Console.WriteLine (q.Count);
+
 KeyValuePair
 KeyValuePair<int, string> keyValuePair = new KeyValuePair<int, string>(1, "apple");
 
