@@ -1,0 +1,26 @@
+using System.Collections.Generic;
+HashSet<int> set = new HashSet<int>();
+set.Count ==> for set length
+numbers.Remove(3);
+
+long ans = int.MaxValue; 
+nums.Length for finding length of an array
+ans = Math.Max(ans, sum);  for finding the max in number
+
+
+Dictionary<int,int> dic = new Dictionary<int,int>();
+dic[0]=1;
+//if we will not use containskey throw error
+//Console.WriteLine(dic.ContainsKey(1));//False
+Console.WriteLine(dic.Remove(0));
+//If key present remove then return true otherwise return false
+Console.WriteLine(dic.Count);
+
+Console.WriteLine(Math.Abs(1-11));
+
+KeyValuePair
+KeyValuePair<int, string> keyValuePair = new KeyValuePair<int, string>(1, "apple");
+
+        // Accessing the key and value
+        Console.WriteLine("Key: " + keyValuePair.Key);    // Output: Key: 1
+        Console.WriteLine("Value: " + keyValuePair.Value); // Output: Value: apple
