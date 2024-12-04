@@ -26,6 +26,13 @@ QUEUE
          q.Dequeue();
          Console.WriteLine (q.Count);
 
+Stack myStack = new Stack(); 
+         myStack.Push("sxst");
+         myStack.Push("dsds");
+        Console.WriteLine (myStack.Count);
+        Console.WriteLine (myStack.Peek());//dsds
+        Console.WriteLine ( myStack.Pop()); //also return deleted element
+
 KeyValuePair
 KeyValuePair<int, string> keyValuePair = new KeyValuePair<int, string>(1, "apple");
 
