@@ -39,3 +39,5 @@ KeyValuePair<int, string> keyValuePair = new KeyValuePair<int, string>(1, "apple
         // Accessing the key and value
         Console.WriteLine("Key: " + keyValuePair.Key);    // Output: Key: 1
         Console.WriteLine("Value: " + keyValuePair.Value); // Output: Value: apple
+
+“abcd” and “dabc” are an anagram of each other.
